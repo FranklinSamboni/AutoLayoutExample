@@ -13,6 +13,16 @@
 		273ACC6127BAFB2F004673FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 273ACC5F27BAFB2F004673FF /* Main.storyboard */; };
 		273ACC6327BAFB31004673FF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 273ACC6227BAFB31004673FF /* Assets.xcassets */; };
 		273ACC6627BAFB31004673FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 273ACC6427BAFB31004673FF /* LaunchScreen.storyboard */; };
+		273ACC6F27BAFF37004673FF /* Cell1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273ACC6D27BAFF37004673FF /* Cell1.swift */; };
+		273ACC7027BAFF37004673FF /* Cell1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 273ACC6E27BAFF37004673FF /* Cell1.xib */; };
+		273ACC7327BAFF45004673FF /* Cell2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273ACC7127BAFF45004673FF /* Cell2.swift */; };
+		273ACC7427BAFF45004673FF /* Cell2.xib in Resources */ = {isa = PBXBuildFile; fileRef = 273ACC7227BAFF45004673FF /* Cell2.xib */; };
+		273ACC7727BAFF50004673FF /* Cell3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273ACC7527BAFF50004673FF /* Cell3.swift */; };
+		273ACC7827BAFF50004673FF /* Cell3.xib in Resources */ = {isa = PBXBuildFile; fileRef = 273ACC7627BAFF50004673FF /* Cell3.xib */; };
+		273ACC7B27BB0903004673FF /* Cell4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 273ACC7927BB0903004673FF /* Cell4.swift */; };
+		273ACC7C27BB0903004673FF /* Cell4.xib in Resources */ = {isa = PBXBuildFile; fileRef = 273ACC7A27BB0903004673FF /* Cell4.xib */; };
+		277ADB4E27C4366900B1FB29 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277ADB4D27C4366900B1FB29 /* ViewController2.swift */; };
+		277ADB5027C436DB00B1FB29 /* Second.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277ADB4F27C436DB00B1FB29 /* Second.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +34,16 @@
 		273ACC6227BAFB31004673FF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		273ACC6527BAFB31004673FF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		273ACC6727BAFB31004673FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		273ACC6D27BAFF37004673FF /* Cell1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell1.swift; sourceTree = "<group>"; };
+		273ACC6E27BAFF37004673FF /* Cell1.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Cell1.xib; sourceTree = "<group>"; };
+		273ACC7127BAFF45004673FF /* Cell2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell2.swift; sourceTree = "<group>"; };
+		273ACC7227BAFF45004673FF /* Cell2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Cell2.xib; sourceTree = "<group>"; };
+		273ACC7527BAFF50004673FF /* Cell3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell3.swift; sourceTree = "<group>"; };
+		273ACC7627BAFF50004673FF /* Cell3.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Cell3.xib; sourceTree = "<group>"; };
+		273ACC7927BB0903004673FF /* Cell4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell4.swift; sourceTree = "<group>"; };
+		273ACC7A27BB0903004673FF /* Cell4.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Cell4.xib; sourceTree = "<group>"; };
+		277ADB4D27C4366900B1FB29 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		277ADB4F27C436DB00B1FB29 /* Second.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Second.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +79,20 @@
 				273ACC5927BAFB2F004673FF /* AppDelegate.swift */,
 				273ACC5B27BAFB2F004673FF /* SceneDelegate.swift */,
 				273ACC5D27BAFB2F004673FF /* ViewController.swift */,
+				277ADB4D27C4366900B1FB29 /* ViewController2.swift */,
 				273ACC5F27BAFB2F004673FF /* Main.storyboard */,
 				273ACC6227BAFB31004673FF /* Assets.xcassets */,
 				273ACC6427BAFB31004673FF /* LaunchScreen.storyboard */,
+				277ADB4F27C436DB00B1FB29 /* Second.storyboard */,
 				273ACC6727BAFB31004673FF /* Info.plist */,
+				273ACC6D27BAFF37004673FF /* Cell1.swift */,
+				273ACC6E27BAFF37004673FF /* Cell1.xib */,
+				273ACC7127BAFF45004673FF /* Cell2.swift */,
+				273ACC7227BAFF45004673FF /* Cell2.xib */,
+				273ACC7527BAFF50004673FF /* Cell3.swift */,
+				273ACC7627BAFF50004673FF /* Cell3.xib */,
+				273ACC7927BB0903004673FF /* Cell4.swift */,
+				273ACC7A27BB0903004673FF /* Cell4.xib */,
 			);
 			path = AutoLayoutExample;
 			sourceTree = "<group>";
@@ -126,8 +156,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				273ACC6627BAFB31004673FF /* LaunchScreen.storyboard in Resources */,
+				273ACC7827BAFF50004673FF /* Cell3.xib in Resources */,
 				273ACC6327BAFB31004673FF /* Assets.xcassets in Resources */,
+				273ACC7C27BB0903004673FF /* Cell4.xib in Resources */,
+				277ADB5027C436DB00B1FB29 /* Second.storyboard in Resources */,
 				273ACC6127BAFB2F004673FF /* Main.storyboard in Resources */,
+				273ACC7427BAFF45004673FF /* Cell2.xib in Resources */,
+				273ACC7027BAFF37004673FF /* Cell1.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +174,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				273ACC5E27BAFB2F004673FF /* ViewController.swift in Sources */,
+				273ACC7327BAFF45004673FF /* Cell2.swift in Sources */,
 				273ACC5A27BAFB2F004673FF /* AppDelegate.swift in Sources */,
+				273ACC7727BAFF50004673FF /* Cell3.swift in Sources */,
 				273ACC5C27BAFB2F004673FF /* SceneDelegate.swift in Sources */,
+				273ACC7B27BB0903004673FF /* Cell4.swift in Sources */,
+				277ADB4E27C4366900B1FB29 /* ViewController2.swift in Sources */,
+				273ACC6F27BAFF37004673FF /* Cell1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
